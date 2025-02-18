@@ -1,1 +1,1 @@
-# aulas-economia
+prática de modelagem matemática das aulas de introdução a teorias económicas do Courses, trabalhando com microeconomia, de acordo com as teorias económicas: institucional, social, pós-keynisiana e neoclássica. Abordando conceito como a função de utilidade máxima e lei da utilidade marginal
